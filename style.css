@@ -67,3 +67,18 @@ h6 {
 #__next {
   isolation: isolate;
 }
+:root {
+  --cc-dark-blue: hsl(233, 47%, 7%);
+  --cc-dark-d-blue: hsl(244, 38%, 16%);
+  --cc-soft-violet: hsl(277, 64%, 61%);
+
+  --cc-white: hsl(0, 0%, 100%);
+  --cc-light-white1: hsla(0, 0%, 100%, 0.75);
+  --cc-light-white2: hsla(0, 0%, 100%, 0.6);
+
+  --ff-inter: "Inter";
+  --ff-lexend: "Lexend Deca";
+
+  --fw-regular: 400;
+  --fw-bold: 700;
+}
