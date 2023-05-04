@@ -82,3 +82,19 @@ h6 {
   --fw-regular: 400;
   --fw-bold: 700;
 }
+body {
+  background-color: var(--cc-dark-blue);
+  display: grid;
+  place-items: center;
+}
+.stats-card {
+  background-color: var(--cc-dark-d-blue);
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  max-width: 70%;
+}
+.stats-card__images {
+  background-image: url(./images/image-header-desktop.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
