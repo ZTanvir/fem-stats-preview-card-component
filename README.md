@@ -15,7 +15,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Screenshot
 
-![](../fem-stats-preview-card-component/screenshoot/desktop.png)
+![](./screenshoot/desktop.png)
 
 ### Links
 
