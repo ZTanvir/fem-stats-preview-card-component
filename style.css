@@ -87,6 +87,7 @@ body {
   background-color: var(--cc-dark-blue);
   display: grid;
   place-items: center;
+  min-height: 100vh;
 }
 .stats-card {
   background-color: var(--cc-dark-d-blue);
@@ -109,7 +110,7 @@ body {
 .stats-card__images {
   width: 100%;
   mix-blend-mode: multiply;
-  opacity: 0.6;
+  /* opacity: 0.6; */
   object-fit: fill;
 }
 .stats-card__info {
