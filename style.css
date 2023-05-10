@@ -93,7 +93,8 @@ body {
   background-color: var(--cc-dark-d-blue);
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  max-width: 80%;
+  max-width: 1440px;
+  width: 80vw;
   border-radius: 5px;
   overflow: hidden;
 }
@@ -110,7 +111,7 @@ body {
 .stats-card__images {
   width: 100%;
   mix-blend-mode: multiply;
-  /* opacity: 0.6; */
+  opacity: 0.8;
   object-fit: fill;
 }
 .stats-card__info {
